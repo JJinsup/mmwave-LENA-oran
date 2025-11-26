@@ -1,6 +1,6 @@
 [submodule "contrib/oran-interface"]
 	path = contrib/oran-interface
-	url= https://github.com/MinaYonan123/oran-interface
+	url= https://github.com/JJinsup/oran-interface.git
 [submodule "src/nr"]
 	path = src/nr
-	url = https://github.com/MinaYonan123/ns3-oran-lena-nr.git
+	url = https://github.com/JJinsup/ns3-oran-lena-nr.git
